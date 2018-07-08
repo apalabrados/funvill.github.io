@@ -248,6 +248,7 @@ Online retailers of components and dev boards.
 - [NIH 3D Print Exchange](http://3dprint.nih.gov/) - 3D-printable models that are scientifically accurate or medically applicable.
 - [Smithsonian 3d models](https://3d.si.edu/browser) - A large collection of 3d models from the smithsonian.
 - [CG Trader](https://www.cgtrader.com/) - 3D models for VR / AR, 3D printing and computer graphics.
+- [STLFinder](https://www.stlfinder.com/) - 3D models search engine. Find models from more than 20 repositories.
 
 
 ### 3D printing services
